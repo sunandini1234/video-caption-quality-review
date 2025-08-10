@@ -1,0 +1,5 @@
+0:00:01.000 --> 0:00:03.000
+welcome to todays session
+
+0:00:04.000 --> 0:00:07.000
+we will discuss the financial report for quarter 2
